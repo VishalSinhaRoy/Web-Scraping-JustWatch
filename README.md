@@ -4,6 +4,9 @@
 
 For this project, movie and TV show data will be scraped from JustWatch, a well-known platform that collects material from a variety of streaming providers. Python is used to accomplish the scraping, with BeautifulSoup being used for HTML parsing and the queries package for HTTP queries. We take data straight out of the website's HTML structure rather than using JustWatch APIs.
 
+**Website Link:**
+JustWatch - https://www.justwatch.com/in/movies?release_year_from=2000
+
 **Project Workflow**
 1. Web Scraping:
 BeautifulSoup is a tool used by Python programs to parse HTML structure. Sending HTTP queries to the JustWatch website in order to obtain pertinent information about movies and TV shows is part of this procedure. The application gathers information by methodically browsing the HTML of the website and extracting titles, genres, release dates, and streaming platforms.

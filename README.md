@@ -5,6 +5,7 @@
 For this project, movie and TV show data will be scraped from JustWatch, a well-known platform that collects material from a variety of streaming providers. Python is used to accomplish the scraping, with BeautifulSoup being used for HTML parsing and the queries package for HTTP queries. We take data straight out of the website's HTML structure rather than using JustWatch APIs.
 
 **Website Link:**
+
 JustWatch - https://www.justwatch.com/in/movies?release_year_from=2000
 
 **Project Workflow**
@@ -26,8 +27,14 @@ Once the analysis is complete, the final results are saved in a CSV file. This f
 **Technologies Used**
 
 Python
+
 Requests library for HTTP requests
+
 BeautifulSoup for HTML parsing
+
 Numpy for framework
+
 Pandas for data manipulation and analysis
+
 WordCloud for word visualuzation
+

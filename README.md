@@ -1,4 +1,4 @@
-# Web-Scraping-JustWatch
+# Web-Scraping_JustWatch - BeautifulSoup
 
 **Overview**
 
